@@ -24,12 +24,11 @@ $ ./complier.sh <package_name>
 
 ## Reference
 
-- https://browserify.org/
-- https://github.com/browserify/browserify-handbook
-- https://hackernoon.com/using-core-node-js-modules-in-react-native-apps-64acd4d07140
-- https://facebook.github.io/metro/docs/getting-started
-- https://reactnative.dev/
-- https://reactjs.org/
+- [Browserify](https://browserify.org/)
+- [Browserify Handbook](https://github.com/browserify/browserify-handbook)
+- [Using Core Nodejs Modules In React Native Apps](https://hackernoon.com/using-core-node-js-modules-in-react-native-apps-64acd4d07140)
+- [React Native](https://reactnative.dev/)
+- [ReactJs](https://reactjs.org/)
 
 ## Author
 

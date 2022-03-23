@@ -1,9 +1,5 @@
 # node-to-app-compiler
 
-## About
-
-Get more information [here]()
-
 ## Getting Started
 
 Two ways to get up and running.

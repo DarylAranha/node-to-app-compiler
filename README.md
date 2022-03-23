@@ -1,5 +1,9 @@
 # node-to-app-compiler
 
+## About
+
+Get more information [here](https://darylaranha.hashnode.dev/node-to-app-compiler)
+
 ## Getting Started
 
 Two ways to get up and running.
